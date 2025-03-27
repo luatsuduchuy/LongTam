@@ -1,33 +1,42 @@
 
 ---
-title: "Mẫu"
-slug: "mẫu-1-2-3"
-excerpt: "Đây là bài viết đầu tiên được quản lý thông qua GitHub CMS."
-date: "2025-02-15"
+title: "Doanh nghiệp xã hội"
+slug: "doanh-nghiep-xa-hoi"
+excerpt: "Luật mới có những quy định cụ thể hơn về doanh nghiệp xã hội:"
+date: "2019-2-13"
 author: "admin"
-image: "/placeholder.svg?height=400&width=800"
-tags: ["gia dinh", "hinh su", "dan su"]
+image: "/content/images/blog/post-2-image.jpg"
+banner: "/content/images/blog/post-2-banner.jpg"
+tags: ["github", "cms", "test"]
 ---
 
-## Long tâm 
 
-1. Set up a GitHub Account and Repository:
-Create a GitHub Account: If you don't have one, sign up at https://github.com/signup. 
-Create a Repository: Create a new repository to store your website content. 
-Choose a Repository Name: Give your repository a descriptive name. 
-Choose Repository Visibility: Decide whether your repository will be public or private. 
-Initialize with a README: You can optionally initialize the repository with a README file. 
-2. Structure Your Content:
-Create a Folder Structure: Organize your content into folders (e.g., _posts for blog posts, images for images, etc.). 
-Use Markdown: Write your content in Markdown format for easy editing and formatting. 
-Use a Static Site Generator (Optional): Consider using a static site generator like Jekyll to automatically build your website from your content. 
-3. Deploy with GitHub Pages:
-Enable GitHub Pages:
-Go to your repository's settings, then click on "Pages" in the "Code and automation" section. 
-Choose a Branch and Source:
-Select the branch and folder from which you want to deploy your site. 
-Customize Your Site (Optional):
-You can customize your site's appearance using a theme or by editing the _config.yml file. 
-Publish Your Site:
-Once you've configured GitHub Pages, your site will be automatically deployed and accessible at a URL like yourusername.github.io/yourrepository. 
-4. Manage Content:
+## 5. Doanh nghiệp xã hội
+
+Luật mới có những quy định cụ thể hơn về doanh nghiệp xã hội:
+
+- Định nghĩa rõ ràng hơn về doanh nghiệp xã hội
+- Ưu đãi về thuế và tiếp cận nguồn vốn
+- Quy định về sử dụng lợi nhuận cho mục tiêu xã hội
+
+<div className="border-l-4 border-green-500 pl-4 italic my-6">
+  "Doanh nghiệp xã hội là doanh nghiệp cam kết giải quyết các vấn đề xã hội, môi trường vì mục tiêu cộng đồng."
+</div>
+
+## Tác động đến doanh nghiệp
+
+Những thay đổi này sẽ có tác động tích cực đến môi trường kinh doanh tại Việt Nam:
+
+1. **Giảm chi phí tuân thủ**: Đơn giản hóa thủ tục giúp doanh nghiệp tiết kiệm thời gian và chi phí
+2. **Tăng tính minh bạch**: Quy định rõ ràng hơn về quản trị doanh nghiệp
+3. **Thu hút đầu tư**: Bảo vệ tốt hơn quyền lợi của nhà đầu tư
+
+![Biểu đồ tăng trưởng doanh nghiệp](/content/images/blog/business-growth.jpg)
+
+## Kết luận
+
+Luật Doanh nghiệp 2023 đã có những cải tiến đáng kể so với phiên bản trước đó. Các doanh nghiệp cần cập nhật và điều chỉnh hoạt động của mình để phù hợp với các quy định mới. Nếu cần tư vấn chi tiết về các thay đổi này, hãy [liên hệ với chúng tôi](#contact) để được hỗ trợ.
+
+---
+
+*Bài viết này chỉ mang tính chất tham khảo và không thay thế cho tư vấn pháp lý chuyên nghiệp.*
