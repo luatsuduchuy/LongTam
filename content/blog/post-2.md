@@ -3,7 +3,7 @@
 title: "Mẫu"
 slug: "mẫu-1-2-3"
 excerpt: "Đây là bài viết đầu tiên được quản lý thông qua GitHub CMS."
-date: "2025-02-30"
+date: "2025-02-15"
 author: "admin"
 image: "/placeholder.svg?height=400&width=800"
 tags: ["gia dinh", "hinh su", "dan su"]
