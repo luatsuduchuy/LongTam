@@ -1,20 +1,24 @@
 ---
-title: Những thay đổi mới trong Luật Doanh nghiệp
-date: 2023-06-15
-excerpt: Tìm hiểu những điểm mới quan trọng trong Luật Doanh nghiệp có hiệu lực từ năm 2023 và tác động đến hoạt động kinh doanh.
-image: /placeholder.svg?height=400&width=800
+title: "Bài viết đầu tiên từ GitHub CMS"
+slug: "bai-viet-dau-tien-tu-github-cms"
+excerpt: "Đây là bài viết đầu tiên được quản lý thông qua GitHub CMS."
+date: "2023-03-27"
+author: "admin"
+image: "/placeholder.svg?height=400&width=800"
+tags: ["github", "cms", "test"]
 ---
 
-Luật Doanh nghiệp là một trong những đạo luật quan trọng điều chỉnh hoạt động kinh doanh tại Việt Nam. Gần đây, Luật Doanh nghiệp đã có những thay đổi đáng kể nhằm tạo môi trường kinh doanh thuận lợi hơn cho các doanh nghiệp.
+## Chào mừng đến với hệ thống CMS mới
 
-## 1. Đơn giản hóa thủ tục thành lập doanh nghiệp
+Đây là bài viết đầu tiên được quản lý thông qua GitHub CMS. Hệ thống này cho phép bạn:
 
-Một trong những thay đổi quan trọng nhất là việc đơn giản hóa thủ tục thành lập doanh nghiệp. Theo quy định mới, thời gian đăng ký thành lập doanh nghiệp được rút ngắn từ 3-5 ngày xuống còn 2-3 ngày. Ngoài ra, các doanh nghiệp có thể thực hiện đăng ký trực tuyến, giúp tiết kiệm thời gian và chi phí.
+1. Viết bài bằng Markdown
+2. Quản lý nội dung thông qua GitHub
+3. Tự động cập nhật website khi có thay đổi
 
-## 2. Bỏ quy định về con dấu doanh nghiệp
+### Ưu điểm của GitHub CMS
 
-Luật mới đã bỏ quy định bắt buộc về việc sử dụng con dấu doanh nghiệp. Doanh nghiệp có quyền quyết định về hình thức, số lượng và nội dung con dấu của doanh nghiệp. Điều này giúp doanh nghiệp linh hoạt hơn trong hoạt động và giảm bớt thủ tục hành chính.
-
-## 3. Mở rộng quyền của cổ đông
-
-Luật mới cũng mở rộng quyền của cổ đông, đặc biệt là cổ đông thiểu số. Cổ đông hoặc nhóm cổ đông sở hữu từ 5% tổng số cổ phần phổ thông trở lên có quyền xem xét, tra cứu và trích lục thông tin về tên, địa chỉ liên lạc của cổ đông trong danh sách cổ đông có quyền biểu quyết.
+- Kiểm soát phiên bản
+- Dễ dàng cộng tác
+- Không cần cơ sở dữ liệu riêng
+- Tiết kiệm chi phí
