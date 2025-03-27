@@ -5,8 +5,8 @@ slug: "doanh-nghiep-xa-hoi"
 excerpt: "Luật mới có những quy định cụ thể hơn về doanh nghiệp xã hội:"
 date: "2019-2-13"
 author: "admin"
-image: "/content/images/blog/post-2-image.jpg"
-banner: "/content/images/blog/post-2-banner.jpg"
+image: "/content/images/blog/post-2-image.webp"
+banner: "/content/images/blog/post-2-banner.webp"
 tags: ["github", "cms", "test"]
 ---
 
