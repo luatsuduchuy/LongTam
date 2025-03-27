@@ -1,3 +1,3 @@
-upload bài viết theo tên post_number.md 
-image: post_number_image.jpg
-banner: post_number_banner.jpg
+upload bài viết theo tên post-number.md 
+image: post-number-image.jpg
+banner: post-number-banner.jpg
