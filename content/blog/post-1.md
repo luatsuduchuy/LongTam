@@ -1,5 +1,3 @@
-
-
 ---
 title: "Bài viết đầu tiên từ GitHub CMS"
 slug: "bai-viet-dau-tien-tu-github-cms"
