@@ -6,8 +6,8 @@ slug: "bai-viet-dau-tien-tu-github-cms"
 excerpt: "Đây là bài viết đầu tiên được quản lý thông qua GitHub CMS."
 date: "2023-03-27"
 author: "admin"
-image: "/content/images/blog/post-1-image.jpg"
-banner: "/content/images/blog/post-1-banner.jpg"
+image: "/content/images/blog/post-1-image.webp"
+banner: "/content/images/blog/post-1-banner.webp"
 tags: ["github", "cms", "test"]
 ---
 
