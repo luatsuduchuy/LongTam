@@ -18,9 +18,7 @@ Luật mới có những quy định cụ thể hơn về doanh nghiệp xã h�
 - Ưu đãi về thuế và tiếp cận nguồn vốn
 - Quy định về sử dụng lợi nhuận cho mục tiêu xã hội
 
-<div className="border-l-4 border-green-500 pl-4 italic my-6">
-  "Doanh nghiệp xã hội là doanh nghiệp cam kết giải quyết các vấn đề xã hội, môi trường vì mục tiêu cộng đồng."
-</div>
+
 
 ## Tác động đến doanh nghiệp
 
