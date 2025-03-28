@@ -17,9 +17,13 @@ tags: ["github", "cms", "test"]
 2. Quản lý nội dung thông qua GitHub
 3. Tự động cập nhật website khi có thay đổi
 
+(/content/images/blog/post-1-image.jpg)
+
 ### Ưu điểm của GitHub CMS
 
 - Kiểm soát phiên bản
 - Dễ dàng cộng tác
 - Không cần cơ sở dữ liệu riêng
 - Tiết kiệm chi phí
+
+(/content/images/blog/post-2-image.jpg)
