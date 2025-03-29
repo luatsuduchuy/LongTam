@@ -6,7 +6,7 @@ date: "2025-03-29"
 author: "admin"
 image: "/content/images/blog/lyhon.jpg"
 banner: "/content/images/blog/lyhon.jpg"
-tags: ["github", "cms", "test"]
+tags: ["dich vu", "ly hon", "test"]
 ---
 
 Ly hôn là một quyết định quan trọng, ảnh hưởng trực tiếp đến cuộc sống của vợ chồng cũng như con cái. Khi cuộc hôn nhân không thể tiếp tục, pháp luật cho phép vợ hoặc chồng yêu cầu ly hôn để chấm dứt quan hệ hôn nhân. Tuy nhiên, để bảo đảm quyền lợi của các bên, thủ tục ly hôn phải tuân thủ đúng các quy định pháp luật hiện hành.
