@@ -22,11 +22,5 @@ Bạo lực gia đình hoặc hành vi ngược đãi, xúc phạm nghiêm trọ
 Vợ hoặc chồng vi phạm nghiêm trọng nghĩa vụ hôn nhân, như không chung thủy, không chăm lo cho gia đình.
 Một bên bỏ rơi gia đình trong thời gian dài, không thực hiện nghĩa vụ cấp dưỡng hoặc chăm sóc con cái.
 Trong trường hợp ly hôn đơn phương, Tòa án sẽ xem xét kỹ lưỡng các bằng chứng để đưa ra phán quyết phù hợp, bảo vệ quyền lợi hợp pháp của các bên liên quan.
-Phân Chia Tài Sản Khi Ly Hôn
-Việc phân chia tài sản khi ly hôn có thể do hai bên thỏa thuận hoặc do Tòa án quyết định theo nguyên tắc của pháp luật. Tài sản chung hình thành trong thời kỳ hôn nhân thường được chia đôi, nhưng có tính đến công sức đóng góp của mỗi bên. Nếu một bên có đóng góp nhiều hơn, như tạo dựng kinh tế chính, chăm sóc con cái, thì Tòa án có thể phân chia theo tỷ lệ phù hợp.
-Đối với tài sản riêng, bao gồm tài sản có trước hôn nhân, được thừa kế hoặc tặng cho riêng, pháp luật bảo vệ quyền sở hữu cá nhân. Trong một số trường hợp, nếu tài sản riêng được đưa vào sử dụng chung trong gia đình, có thể bị xem xét phân chia một phần khi ly hôn.
-Quyền Nuôi Con Và Nghĩa Vụ Cấp Dưỡng
-Vấn đề con cái sau ly hôn là yếu tố quan trọng, được Tòa án xem xét để đảm bảo quyền lợi tốt nhất cho trẻ em. Nếu con dưới 36 tháng tuổi, thông thường mẹ sẽ được ưu tiên quyền nuôi con, trừ khi có bằng chứng mẹ không đủ điều kiện chăm sóc. Nếu con từ 7 tuổi trở lên, Tòa án sẽ hỏi ý kiến của trẻ trước khi quyết định.
-Người không trực tiếp nuôi con có nghĩa vụ cấp dưỡng hàng tháng theo thỏa thuận giữa hai bên hoặc theo mức do Tòa án quyết định. Nghĩa vụ này nhằm đảm bảo cuộc sống, học tập và phát triển của con cái sau khi cha mẹ ly hôn.
 
 ![ly hon2](/content/images/blog/lyhon2.jpg)
