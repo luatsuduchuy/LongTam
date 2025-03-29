@@ -1,12 +1,8 @@
 ---
 title: "Ly Hôn Theo Quy Định Pháp Luật – Những Điều Cần Biết"
-slug: "ly-hon-theo-quy-dinh-phap-luat"
+date: "2024-03-29"
+slug: "ly-hon-theo-quy-dinh-phap-luat"  # Make sure this matches the URL
 excerpt: "Ly hôn là một quyết định quan trọng, ảnh hưởng trực tiếp đến cuộc sống của vợ chồng"
-date: "2025-03-29"
-author: "admin"
-image: "/content/images/blog/lyhon.jpg"
-banner: "/content/images/blog/lyhon.jpg"
-tags: ["dich vu", "ly hon", "test"]
 ---
 
 Ly hôn là một quyết định quan trọng, ảnh hưởng trực tiếp đến cuộc sống của vợ chồng cũng như con cái. Khi cuộc hôn nhân không thể tiếp tục, pháp luật cho phép vợ hoặc chồng yêu cầu ly hôn để chấm dứt quan hệ hôn nhân. Tuy nhiên, để bảo đảm quyền lợi của các bên, thủ tục ly hôn phải tuân thủ đúng các quy định pháp luật hiện hành.
