@@ -1,3 +1,12 @@
+---
+title: "Sáp nhập tỉnh thành, TPHCM có cơ hội tạo dựng chính quyền ở cấp vùng?"
+slug: "sap-nhap-tinh-thanh"
+excerpt: "(Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả"
+date: "2025-03-15"
+author: "admin"
+banner: "/content/images/blog/sap-nhap-banner.jpg"
+tags: ["dich vu", "sap nhap", "test"]
+---
 
 (Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền.
 ![dt1](content/image/blog/sap-nhap1.webp)
