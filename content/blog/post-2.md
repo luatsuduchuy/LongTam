@@ -6,7 +6,7 @@ date: "2019-2-13"
 author: "admin"
 image: "/content/images/blog/post-2-image.jpg"
 banner: "/content/images/blog/post-2-banner.jpg"
-tags: ["github", "cms", "test"]
+tags: ["doanh nghiep", "xa hoi", "test"]
 ---
 
 
