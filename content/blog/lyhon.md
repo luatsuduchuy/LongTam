@@ -1,7 +1,7 @@
 ---
 title: "Ly Hôn Theo Quy Định Pháp Luật – Những Điều Cần Biết"
 slug: "ly-hon-theo-quy-dinh-phap-luat"
-excerpt: "Ly hôn là một quyết định quan trọng, ảnh hưởng trực tiếp đến cuộc sống của vợ chồng cũng như con cái"
+excerpt: "Ly hôn là một quyết định quan trọng, ảnh hưởng trực tiếp đến cuộc sống của vợ chồng"
 date: "2024-03-29"
 author: "admin"
 image: "/content/images/blog/lyhon.jpg"
