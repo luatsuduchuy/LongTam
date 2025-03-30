@@ -19,7 +19,6 @@ Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ m�
 TS Trần Du Lịch cho rằng: "Tổ chức lại nền hành chính lần này là một cuộc cách mạng về mặt tổ chức. Tổ chức lại với các tiêu chí rõ ràng như vậy thể hiện tầm nhìn lâu dài và ổn định, tránh tình trạng nay nhập mai tách đã từng xảy ra, nhìn đến xu hướng phát triển dài hạn của đất nước, ít nhất phải đến năm 2045". <br>
 
 ![dt2](content/images/blog/sap-nhap2.webp)
-
 Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ trên nhiều phương diện, tiêu chí (Ảnh: Phước Tuần). <br>
 
 Ông khẳng định: "Đây là thời cơ để làm, giải quyết vấn đề tồn tại trong bộ máy chính quyền địa phương 3 cấp hiện nay. Lần này chúng ta làm một cách bài bản, bao gồm cả 3 bộ phận của nền hành chính quốc gia".
@@ -58,8 +57,7 @@ TS Trần Du Lịch nhấn mạnh: "Sáp nhập lần này là tổ chức nền
 Ông nhắc lại dư địa phát triển khi kết nối giao thương theo hướng Đông - Tây ở các tỉnh miền Trung: "Ngày xưa, quê tôi ở Bình Định, ông bà đã có câu ca dao rằng: "Ai lên nhắn với nậu nguồn/Măng le đưa xuống, cá chuồn đưa lên". Câu ca dao ấy thể hiện rất rõ tính gắn kết, giao thương, bổ sung lợi thế cho nhau để kinh tế phát triển giữa miền núi và đồng bằng".
 
 ![dt6](content/images/blog/sap-nhap6.webp)
-Những tuyến cao tốc nối biển với Tây Nguyên đang tạo cơ hội cho việc kết nối hàng lang Đông - Tây, nối rừng với biển (Ảnh: Trung Thi).
-<br>
+Những tuyến cao tốc nối biển với Tây Nguyên đang tạo cơ hội cho việc kết nối hàng lang Đông - Tây, nối rừng với biển (Ảnh: Trung Thi). <br>
 
 Còn với TPHCM, ông khẳng định việc sáp nhập một số tỉnh lân cận, mở rộng theo không gian vùng đô thị TPHCM sẽ tạo thuận lợi rất lớn để phát triển khu vực này.
 Ông nói: "Trong lúc chúng ta đang lúng túng trong phát triển kinh tế vùng TPHCM, không thể đẻ ra chính quyền cấp vùng thì TPHCM được mở rộng, cả vùng đô thị trở thành một cấp chính quyền thì càng thuận lợi hơn, đặc biệt là khai thác lợi thế phát triển hạ tầng".
