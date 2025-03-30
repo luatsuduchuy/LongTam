@@ -11,9 +11,7 @@ tags: ["dich vu", "sap nhap", "test"]
 (Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền.
 <br>
 ![dt1](content/images/blog/sap-nhap1.webp)
-Cuộc cách mạng về tổ chức
-<br>
-
+Cuộc cách mạng về tổ chức <br>
 
 Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ máy theo mô hình chính quyền địa phương 2 cấp, sáp nhập tỉnh và không tổ chức cấp huyện, Tiến sĩ Trần Du Lịch bày tỏ quan điểm ủng hộ tuyệt đối chủ trương này.
 Ông nói: "Trước hết, tôi cho rằng trong quá trình triển khai Nghị quyết 18-NQ/TW của Bộ Chính trị về tổ chức sắp xếp bộ máy ở trung ương, địa phương theo hướng tinh gọn, hiệu quả, hiệu năng, hiệu lực, Bộ Chính trị tiếp tục chủ trương tổ chức lại mô hình nền hành chính địa phương theo Kết luận 127-KL/TW là một chủ trương rất đúng đắn".
@@ -30,31 +28,27 @@ Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ tr
 Ông khẳng định: "Đây là thời cơ để làm, giải quyết vấn đề tồn tại trong bộ máy chính quyền địa phương 3 cấp hiện nay. Lần này chúng ta làm một cách bài bản, bao gồm cả 3 bộ phận của nền hành chính quốc gia".
 Thứ nhất là về mặt thể chế. Thủ tục, quy trình theo hướng mở rộng phân cấp, phân quyền cho địa phương theo phương châm "địa phương quyết, địa phương làm, địa phương chịu trách nhiệm".
 Thứ hai rất quan trọng, đó là tổ chức bộ máy vận hành từ trung ương đến địa phương như thế nào.
-Thứ ba là tổ chức sắp xếp đội ngũ cán bộ, công chức ngang tầm để vận hành bộ máy đó một cách lưu loát.
+Thứ ba là tổ chức sắp xếp đội ngũ cán bộ, công chức ngang tầm để vận hành bộ máy đó một cách lưu loát. <br>
 
-<br>
 ![dt3](content/images/blog/sap-nhap3.webp)
-TS Trần Du Lịch: "Thời cơ vàng để sáp nhập, mở rộng không gian phát triển đã tới" (Ảnh: Nguyễn Vy).
-<br>
+TS Trần Du Lịch: "Thời cơ vàng để sáp nhập, mở rộng không gian phát triển đã tới" (Ảnh: Nguyễn Vy). <br>
 "Lần này chúng ta tiến hành một cách đồng bộ chứ không phải làm từng mảng. Vì vậy, tôi nghĩ đây là một công việc mang tính cách mạng", TS Trần Du Lịch nhấn mạnh.
 Đưa không gian hành chính và không gian phát triển về cùng một hệ
 Theo TS Trần Du Lịch, nước ta là một nước có diện tích không lớn nhưng tổ chức chính quyền 4 cấp, ở địa phương là 3 cấp nên không phát huy được phân cấp, phân quyền; không thể hiện được tính tự chủ của địa phương đúng nghĩa là một cấp chính quyền cơ sở.
 Ông nói: "Hiện nước ta có những địa phương rất nhỏ, không gian phát triển kinh tế với ranh giới quản lý hành chính không phù hợp, không đi liền với nhau".
 TS Trần Du Lịch phân tích, cơ chế của chúng ta khi phân quyền là phân quyền cho chính quyền địa phương cấp tỉnh theo ranh giới hành chính chứ không phân quyền theo quy mô kinh tế. Từ đó nảy sinh ra nhiều bất cập.
 Ông lấy dẫn chứng vùng đô thị TPHCM bao gồm TPHCM và các tỉnh lân cận đã được hình thành từ lâu nhưng chưa phát huy hết tiềm năng vì chưa có cơ chế tổ chức hành chính vùng, vẫn mạnh ai nấy làm.
-"Xây một cái cầu nối 2 tỉnh mà bàn nhau đặt ở vị trí nào cũng mất cả năm chưa chốt được", TS Trần Du Lịch trình bày điểm khó khi chưa có cơ chế tổ chức hành chính vùng.
-<br>
-![dt4](content/images/blog/sap-nhap4.webp)
-TPHCM sẽ phát triển mạnh mẽ hơn khi vùng kinh tế TPHCM trở thành một cấp chính quyền (Ảnh: Nam Anh).
-<br>
+"Xây một cái cầu nối 2 tỉnh mà bàn nhau đặt ở vị trí nào cũng mất cả năm chưa chốt được", TS Trần Du Lịch trình bày điểm khó khi chưa có cơ chế tổ chức hành chính vùng. <br>
+
+![dt2](content/images/blog/sap-nhap4.webp)
+TPHCM sẽ phát triển mạnh mẽ hơn khi vùng kinh tế TPHCM trở thành một cấp chính quyền (Ảnh: Nam Anh). <br>
 Ông nhớ lại giai đoạn làm tổ trưởng Tổ tư vấn liên kết vùng duyên hải miền Trung đã thấy bất cập khi các tỉnh ven biển có lợi thế quá giống nhau, biển đảo như nhau, thay vì bổ sung cho nhau thì cạnh tranh với nhau.
 Trong một hội nghị liên kết vùng ở các tỉnh ven biển miền Trung, TS Trần Du Lịch đề xuất mời các tỉnh Tây Nguyên. Bởi theo ông, liên kết các tỉnh ven biển với Tây Nguyên mới có thể bổ sung lợi thế phát triển, không cạnh tranh với nhau.
 TS Trần Du Lịch nhấn mạnh: "Nếu sáp nhập tỉnh theo hướng kết nối Tây Nguyên với các tỉnh ven biển thì chúng ta sẽ thay đổi cách tổ chức những tỉnh mới thành những tiểu vùng kinh tế, gắn kết với sự phát triển không gian, bổ sung cho nhau".
 Ông bổ sung thêm: "Ở khu vực đồng bằng sông Cửu Long cũng có điều kiện tự nhiên hình thành những tiểu vùng kinh tế như Đồng Tháp Mười, tứ giác Long Xuyên, bán đảo Cà Mau...".
 
 ![dt5](content/images/blog/sap-nhap5.webp)
-Sáp nhập hợp lý sẽ tạo dư địa phát triển cho các địa phương (Ảnh: Ip Thiên).
-<br>
+Sáp nhập hợp lý sẽ tạo dư địa phát triển cho các địa phương (Ảnh: Ip Thiên). <br>
 
 Theo TS Trần Du Lịch, sáp nhập các tỉnh lần này không đơn thuần là gộp cơ học mà là tổ chức lại quy mô không gian như một "tiểu vùng kinh tế", mà "tiểu vùng kinh tế" đó gắn với một cấp chính quyền, đưa không gian hành chính và không gian phát triển về cùng một hệ không gian.
 "Chúng ta không có chính quyền cấp vùng, nay thực hiện sáp nhập thì có thể hình thành một cấp chính quyền điều hành một "tiểu vùng kinh tế". Khi tạo ra không gian kinh tế phù hợp gắn với cơ chế phân quyền cho cấp tỉnh, việc điều hành kinh tế sẽ rất thuận lợi", TS Trần Du Lịch nhận định.
