@@ -10,12 +10,13 @@ tags: ["dich vu", "sap nhap", "test"]
 
 (Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền.
 ![dt1](content/images/blog/sap-nhap1.webp)
-
+[br]
 Cuộc cách mạng về tổ chức
 Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ máy theo mô hình chính quyền địa phương 2 cấp, sáp nhập tỉnh và không tổ chức cấp huyện, Tiến sĩ Trần Du Lịch bày tỏ quan điểm ủng hộ tuyệt đối chủ trương này.
 Ông nói: "Trước hết, tôi cho rằng trong quá trình triển khai Nghị quyết 18-NQ/TW của Bộ Chính trị về tổ chức sắp xếp bộ máy ở trung ương, địa phương theo hướng tinh gọn, hiệu quả, hiệu năng, hiệu lực, Bộ Chính trị tiếp tục chủ trương tổ chức lại mô hình nền hành chính địa phương theo Kết luận 127-KL/TW là một chủ trương rất đúng đắn".
 Đặc biệt, theo Kết luận 127, việc sáp nhập tỉnh lần này không chỉ là gộp lại một cách cơ học dựa trên quy mô dân số, diện tích mà căn cứ trên nhiều phương diện, tiêu chí như: Quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch địa phương, chiến lược phát triển kinh tế - xã hội, phát triển ngành, mở rộng không gian phát triển, phát huy lợi thế so sánh, đáp ứng yêu cầu phát triển đối với từng địa phương...
 TS Trần Du Lịch cho rằng: "Tổ chức lại nền hành chính lần này là một cuộc cách mạng về mặt tổ chức. Tổ chức lại với các tiêu chí rõ ràng như vậy thể hiện tầm nhìn lâu dài và ổn định, tránh tình trạng nay nhập mai tách đã từng xảy ra, nhìn đến xu hướng phát triển dài hạn của đất nước, ít nhất phải đến năm 2045".
+[br]
 
 ![dt2](content/images/blog/sap-nhap2.webp)
 
@@ -24,7 +25,7 @@ Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ tr
 Thứ nhất là về mặt thể chế. Thủ tục, quy trình theo hướng mở rộng phân cấp, phân quyền cho địa phương theo phương châm "địa phương quyết, địa phương làm, địa phương chịu trách nhiệm".
 Thứ hai rất quan trọng, đó là tổ chức bộ máy vận hành từ trung ương đến địa phương như thế nào.
 Thứ ba là tổ chức sắp xếp đội ngũ cán bộ, công chức ngang tầm để vận hành bộ máy đó một cách lưu loát.
-
+[br]
 ![dt3](content/images/blog/sap-nhap3.webp)
 
 TS Trần Du Lịch: "Thời cơ vàng để sáp nhập, mở rộng không gian phát triển đã tới" (Ảnh: Nguyễn Vy).
@@ -35,7 +36,7 @@ Theo TS Trần Du Lịch, nước ta là một nước có diện tích không l
 TS Trần Du Lịch phân tích, cơ chế của chúng ta khi phân quyền là phân quyền cho chính quyền địa phương cấp tỉnh theo ranh giới hành chính chứ không phân quyền theo quy mô kinh tế. Từ đó nảy sinh ra nhiều bất cập.
 Ông lấy dẫn chứng vùng đô thị TPHCM bao gồm TPHCM và các tỉnh lân cận đã được hình thành từ lâu nhưng chưa phát huy hết tiềm năng vì chưa có cơ chế tổ chức hành chính vùng, vẫn mạnh ai nấy làm.
 "Xây một cái cầu nối 2 tỉnh mà bàn nhau đặt ở vị trí nào cũng mất cả năm chưa chốt được", TS Trần Du Lịch trình bày điểm khó khi chưa có cơ chế tổ chức hành chính vùng.
-
+[br]
 ![dt4](content/images/blog/sap-nhap4.webp)
 
 TPHCM sẽ phát triển mạnh mẽ hơn khi vùng kinh tế TPHCM trở thành một cấp chính quyền (Ảnh: Nam Anh).
