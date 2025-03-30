@@ -8,18 +8,18 @@ banner: "/content/images/blog/sap-nhap-banner.jpg"
 tags: ["dich vu", "sap nhap", "test"]
 ---
 
-(Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền. <br/>
+(Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền.
 
 ![dt1](content/images/blog/sap-nhap1.webp)
-_Cuộc cách mạng về tổ chức_ <br/>
+_Cuộc cách mạng về tổ chức_ 
 
 Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ máy theo mô hình chính quyền địa phương 2 cấp, sáp nhập tỉnh và không tổ chức cấp huyện, Tiến sĩ Trần Du Lịch bày tỏ quan điểm ủng hộ tuyệt đối chủ trương này.
 Ông nói: "Trước hết, tôi cho rằng trong quá trình triển khai Nghị quyết 18-NQ/TW của Bộ Chính trị về tổ chức sắp xếp bộ máy ở trung ương, địa phương theo hướng tinh gọn, hiệu quả, hiệu năng, hiệu lực, Bộ Chính trị tiếp tục chủ trương tổ chức lại mô hình nền hành chính địa phương theo Kết luận 127-KL/TW là một chủ trương rất đúng đắn".
 Đặc biệt, theo Kết luận 127, việc sáp nhập tỉnh lần này không chỉ là gộp lại một cách cơ học dựa trên quy mô dân số, diện tích mà căn cứ trên nhiều phương diện, tiêu chí như: Quy hoạch tổng thể quốc gia, quy hoạch vùng, quy hoạch địa phương, chiến lược phát triển kinh tế - xã hội, phát triển ngành, mở rộng không gian phát triển, phát huy lợi thế so sánh, đáp ứng yêu cầu phát triển đối với từng địa phương...
-TS Trần Du Lịch cho rằng: "Tổ chức lại nền hành chính lần này là một cuộc cách mạng về mặt tổ chức. Tổ chức lại với các tiêu chí rõ ràng như vậy thể hiện tầm nhìn lâu dài và ổn định, tránh tình trạng nay nhập mai tách đã từng xảy ra, nhìn đến xu hướng phát triển dài hạn của đất nước, ít nhất phải đến năm 2045". <br/>
+TS Trần Du Lịch cho rằng: "Tổ chức lại nền hành chính lần này là một cuộc cách mạng về mặt tổ chức. Tổ chức lại với các tiêu chí rõ ràng như vậy thể hiện tầm nhìn lâu dài và ổn định, tránh tình trạng nay nhập mai tách đã từng xảy ra, nhìn đến xu hướng phát triển dài hạn của đất nước, ít nhất phải đến năm 2045". 
 
 ![dt2](content/images/blog/sap-nhap2.webp)
-_Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ trên nhiều phương diện, tiêu chí (Ảnh: Phước Tuần)._ <br/>
+_Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ trên nhiều phương diện, tiêu chí (Ảnh: Phước Tuần)._ 
 
 Ông khẳng định: "Đây là thời cơ để làm, giải quyết vấn đề tồn tại trong bộ máy chính quyền địa phương 3 cấp hiện nay. Lần này chúng ta làm một cách bài bản, bao gồm cả 3 bộ phận của nền hành chính quốc gia".
 Thứ nhất là về mặt thể chế. Thủ tục, quy trình theo hướng mở rộng phân cấp, phân quyền cho địa phương theo phương châm "địa phương quyết, địa phương làm, địa phương chịu trách nhiệm".
