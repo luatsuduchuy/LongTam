@@ -25,7 +25,7 @@ Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ tr
 Thứ nhất là về mặt thể chế. Thủ tục, quy trình theo hướng mở rộng phân cấp, phân quyền cho địa phương theo phương châm "địa phương quyết, địa phương làm, địa phương chịu trách nhiệm".
 Thứ hai rất quan trọng, đó là tổ chức bộ máy vận hành từ trung ương đến địa phương như thế nào.
 Thứ ba là tổ chức sắp xếp đội ngũ cán bộ, công chức ngang tầm để vận hành bộ máy đó một cách lưu loát.
-[br]
+<br>
 ![dt3](content/images/blog/sap-nhap3.webp)
 
 TS Trần Du Lịch: "Thời cơ vàng để sáp nhập, mở rộng không gian phát triển đã tới" (Ảnh: Nguyễn Vy).
@@ -36,7 +36,7 @@ Theo TS Trần Du Lịch, nước ta là một nước có diện tích không l
 TS Trần Du Lịch phân tích, cơ chế của chúng ta khi phân quyền là phân quyền cho chính quyền địa phương cấp tỉnh theo ranh giới hành chính chứ không phân quyền theo quy mô kinh tế. Từ đó nảy sinh ra nhiều bất cập.
 Ông lấy dẫn chứng vùng đô thị TPHCM bao gồm TPHCM và các tỉnh lân cận đã được hình thành từ lâu nhưng chưa phát huy hết tiềm năng vì chưa có cơ chế tổ chức hành chính vùng, vẫn mạnh ai nấy làm.
 "Xây một cái cầu nối 2 tỉnh mà bàn nhau đặt ở vị trí nào cũng mất cả năm chưa chốt được", TS Trần Du Lịch trình bày điểm khó khi chưa có cơ chế tổ chức hành chính vùng.
-[br]
+<br>
 ![dt4](content/images/blog/sap-nhap4.webp)
 
 TPHCM sẽ phát triển mạnh mẽ hơn khi vùng kinh tế TPHCM trở thành một cấp chính quyền (Ảnh: Nam Anh).
