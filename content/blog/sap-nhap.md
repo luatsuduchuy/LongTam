@@ -11,6 +11,7 @@ tags: ["dich vu", "sap nhap", "test"]
 (Dân trí) - TS Trần Du Lịch trăn trở, vùng đô thị TPHCM đã có từ lâu nhưng chưa hiệu quả vì không có chính quyền cấp vùng để điều tiết. Sáp nhập tỉnh là cơ hội để vùng TPHCM trở thành một cấp chính quyền.
 
 ![dt1](content/images/blog/sap-nhap1.webp)
+
 _Cuộc cách mạng về tổ chức_ 
 
 Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ máy theo mô hình chính quyền địa phương 2 cấp, sáp nhập tỉnh và không tổ chức cấp huyện, Tiến sĩ Trần Du Lịch bày tỏ quan điểm ủng hộ tuyệt đối chủ trương này.
@@ -19,6 +20,7 @@ Trao đổi với phóng viên Dân trí về chủ trương sắp xếp bộ m�
 TS Trần Du Lịch cho rằng: "Tổ chức lại nền hành chính lần này là một cuộc cách mạng về mặt tổ chức. Tổ chức lại với các tiêu chí rõ ràng như vậy thể hiện tầm nhìn lâu dài và ổn định, tránh tình trạng nay nhập mai tách đã từng xảy ra, nhìn đến xu hướng phát triển dài hạn của đất nước, ít nhất phải đến năm 2045". 
 
 ![dt2](content/images/blog/sap-nhap2.webp)
+
 _Sáp nhập tỉnh lần này không phải là gộp cơ học mà căn cứ trên nhiều phương diện, tiêu chí (Ảnh: Phước Tuần)._ 
 
 Ông khẳng định: "Đây là thời cơ để làm, giải quyết vấn đề tồn tại trong bộ máy chính quyền địa phương 3 cấp hiện nay. Lần này chúng ta làm một cách bài bản, bao gồm cả 3 bộ phận của nền hành chính quốc gia".
